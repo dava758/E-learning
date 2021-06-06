@@ -36,7 +36,7 @@
 			<br/>
 			<br/>
 			<center>
-				<a class="link" href="awal.php">kembali</a>
+				<a class="link" href="index.php">kembali</a>
 			</center>
 		</form>	
 	</div>
